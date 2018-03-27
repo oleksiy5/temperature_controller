@@ -1,0 +1,14 @@
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\temperature\temperature\bin\Debug\temperature.exe.config
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\temperature\temperature\bin\Debug\temperature.exe
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\temperature\temperature\bin\Debug\temperature.pdb
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\temperature\temperature\obj\Debug\temperature.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\temperature\temperature\obj\Debug\temperature.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\temperature\temperature\obj\Debug\temperature.exe
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\temperature\temperature\obj\Debug\temperature.pdb
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\Temperature_CSharpProj\temperature\bin\Debug\temperature.exe.config
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\Temperature_CSharpProj\temperature\bin\Debug\temperature.exe
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\Temperature_CSharpProj\temperature\bin\Debug\temperature.pdb
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\Temperature_CSharpProj\temperature\obj\Debug\temperature.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\Temperature_CSharpProj\temperature\obj\Debug\temperature.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\Temperature_CSharpProj\temperature\obj\Debug\temperature.exe
+C:\Users\Oleksiy\Desktop\arduino\temperature_controller\Temperature_CSharpProj\temperature\obj\Debug\temperature.pdb
